@@ -1,0 +1,5 @@
+mysql -u root -p
+as12df34
+show database;
+use FileServer;
+select * from USER_INFORMATION;
