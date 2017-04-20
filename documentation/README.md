@@ -21,6 +21,7 @@ install the libapache2-mod-php7.0
 
 after that you might need to change the /etc/php/7.0/apache2/php.ini to allow uploads
 if you are working on a ubuntu server, change the owner of the lofiles and uploadfolder to www-data, otherwise to apache
+	
 	sudo chown www-data masteruploads/
 	
 mysql:
